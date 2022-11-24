@@ -1,6 +1,6 @@
 function displayText(){
     let article = getElementByClassName("zKYxPeaPPUabJsPV");
     console.log(article);
-    console.log(hello);
+    console.log("hello");
 }
 displayText();
