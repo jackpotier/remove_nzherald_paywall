@@ -3,4 +3,5 @@ function displayText(){
     console.log(article);
     console.log("hello");
 }
+
 displayText();
